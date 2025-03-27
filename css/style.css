@@ -18,3 +18,11 @@ h1{
     transform: translate(-50%, -50%);
 }
 
+/* footer code sourced from w3Schools */
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(42, 47, 47);
+    color: white;
+  }
+
